@@ -22,10 +22,10 @@ no_index:
 requires:
   Coro: 0
   Filter::Util::Call: 0
-  Net::Server::Coro: 0
+  Net::Server::Coro: 0.5
   Plack: 0
   perl: 5.8.1
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/miyagawa/Plack-Server-Coro.git
-version: 0.01
+version: 0.02
